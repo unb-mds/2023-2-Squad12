@@ -8,3 +8,4 @@
 <img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/91da5e3e-30d1-4511-8408-993494ad26dd" width="400px" />
 </div>
 
+<h1>Integrantes</h1>
