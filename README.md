@@ -1,5 +1,8 @@
 # 2023-2-Squad12 | Licita RN
 <div align="center">
+<img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/df13f8f9-7c9c-4b14-80ed-9c1af1207a9d" width="200px" />
+</div>
+<div align="center">
 <img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/2441e2f4-4bfb-4477-8770-cd69728045d9" width="200px" />
 </div>
 <h1>Objetivo</h1>
