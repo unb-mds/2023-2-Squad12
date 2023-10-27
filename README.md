@@ -18,7 +18,7 @@
     <td><a href="https://github.com/Karolina91"><img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/6b9afd1b-c9e1-434c-8067-d549caf1f2b4" alt="Karolina Vieira" style="width: 90px; height: 100px;"></a><p><a href="https://github.com/Karolina91">Karolina Vieira<a\></p></td>
     <td><a href="https://github.com/vcpVitor"><img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/78619c92-4d64-497d-8921-378a7762fec2"  alt="Vitor" style="width: 90px; height: 100px;"></a><p><a href="https://github.com/vcpVitor">Vitor Carvalho<a\></p></td>
     <td><a href="https://github.com/caslu-ac"><img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/451c14a4-560f-47fd-a172-4031bf4665ab"  alt="Lucas Amaral" style="width: 100px; height: 100px;"></a><p><a href="https://github.com/caslu-ac">Lucas Amaral<a\></p></td>
-    <td><a href="https://github.com/andreozzi"><img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/9a7a3aac-4afd-49ff-b307-fc76b5b71aa2" alt="Victor Andreozzi" style="width: 100px; height: 100px;"></a><a href="https://github.com/andreozzi"><a\><p>Vitor Andreozzi</p></td>
+    <td><a href="https://github.com/andreozzi"><img src="https://github.com/unb-mds/2023-2-Squad12/assets/84090707/9a7a3aac-4afd-49ff-b307-fc76b5b71aa2" alt="Victor Andreozzi" style="width: 100px; height: 100px;"></a><a href="https://github.com/andreozzi"><a\><p>Victor Andreozzi</p></td>
   </tr>
 </table>
 
