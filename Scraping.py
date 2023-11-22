@@ -1,4 +1,5 @@
 import os
+from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -18,7 +19,7 @@ wait = WebDriverWait(driver,20)
 edition_date = wait.until(EC.visibility_of_element_located((By.ID, 'dataEdicao')))
 data_input = driver.find_element(By.ID,'dataEdicao')
 
-initial_date = date(2023, 10, 25)
+initial_date = date(2020, 10, 25)
 final_date = date(2023,10,25)
 
 while initial_date <= final_date:
@@ -30,13 +31,17 @@ while initial_date <= final_date:
     ok_button = driver.find_element(By.ID, 'botaoNumeroEdicao')
     ok_button = wait.until(EC.presence_of_element_located((By.ID, 'botaoNumeroEdicao')))
     ok_button.click()
-    time.sleep(5)
-    impressa_button = wait.until(EC.presence_of_element_located((By.XPATH, '//a[contains(text(), "Impressa")]')))
-    impressa_button.click()
-    download_button = wait.until(EC.presence_of_element_located((By.ID, 'download')))
-    download_button.click()
+    time.sleep(10)
+    try:
+        impressa_button = wait.until(EC.presence_of_element_located((By.XPATH, '//a[contains(text(), "Impressa")]')))
+        impressa_button.click()
+        baixar_button = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[3]/div/div[1]/div[2]/button[3]')
+        baixar_button.click()
+       
+
+    except Exception as e:
+        print(f"erro")
 
     
-    
-
+print("its ok")
 
